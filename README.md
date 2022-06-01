@@ -3,7 +3,7 @@ A project titled " From menarche to menopause: the impact of reproductive factor
 
 This repository contains:
 
-1) Directory: 1_MV_analyses
+**1) Directory: 1_MV_analyses
 
 Scripts:
 
