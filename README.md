@@ -7,23 +7,23 @@ This repository contains:
 
 Scripts:
 
-•	a_gen_rel_var: Generate relevant variables (i.e each reproductive traits, confounders)
+•	a_gen_rel_var.do: Generate relevant variables (i.e each reproductive traits, confounders)
 
-•	b_gen_statins: Generate statin variables
+•	b_gen_statins.do: Generate statin variables
 
-•	c_gen_statins_ds: Generate statin dataset
+•	c_gen_statins_ds.do: Generate statin dataset
 
-•	d_merge_outcome_ds: Merge biomarker outcomes dataset with exposure dataset
+•	d_merge_outcome_ds.do: Merge biomarker outcomes dataset with exposure dataset
 
-•	e_mvr_allexposures_allmods: Run all MVR models
+•	e_mvr_allexposures_allmods.do: Run all MVR models
 
-•	f_pnc_parity_allmods: Run PNC models
+•	f_pnc_parity_allmods.do: Run PNC models
 
-•	g_output_plots: Merge MVR and PNC results
+•	g_output_plots.do: Merge MVR and PNC results
 
-•	h_output_sumtable: Read in MR results and MVR/PNC results and output to supplementary excel table
+•	h_output_sumtable.do: Read in MR results and MVR/PNC results and output to supplementary excel table
 
-2)	Directory: 2_Summary_data_extraction
+**2) Directory: 2_Summary_data_extraction**
 
 Scripts:
 
@@ -33,7 +33,7 @@ Scripts:
 
 •	c_sel_out.R: Formats outcome GWAS summary data for selected SNPs
 
-3)	Directory: 3_MR_analyses
+**3)	Directory: 3_MR_analyses**
 
 Scripts:
 
