@@ -23,7 +23,7 @@ Scripts:
 
 •	h_output_sumtable.do: Read in MR results and MVR/PNC results and output to supplementary excel table
 
-**2)	Directory: 3_MR_analyses**
+**2)	Directory: 2_MR_analyses**
 
 Scripts:
 
