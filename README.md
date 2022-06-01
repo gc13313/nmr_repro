@@ -23,17 +23,7 @@ Scripts:
 
 •	h_output_sumtable.do: Read in MR results and MVR/PNC results and output to supplementary excel table
 
-**2) Directory: 2_Summary_data_extraction**
-
-Scripts:
-
-•	a_sel_iv.R: Selects SNPs as instruments for reproductive traits and extracts corresponding exposure GWAS summary data
-
-•	b_extr_outdat.sh: Extracts outcome GWAS summary data for selected SNPs
-
-•	c_sel_out.R: Formats outcome GWAS summary data for selected SNPs
-
-**3)	Directory: 3_MR_analyses**
+**2)	Directory: 3_MR_analyses**
 
 Scripts:
 
