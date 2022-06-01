@@ -4,9 +4,13 @@ A project titled " From menarche to menopause: the impact of reproductive factor
 This repository contains:
 
 1) Directory: 1_MV_analyses
+
 Scripts:
+
 •	a_gen_rel_var
+
 Generate relevant variables (i.e each reproductive traits, confounders)
+
 •	b_gen_statins
 Generate statin variables
 •	c_gen_statins_ds
