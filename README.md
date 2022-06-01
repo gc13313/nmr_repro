@@ -8,16 +8,22 @@ This repository contains:
 Scripts:
 
 •	a_gen_rel_var
-
 Generate relevant variables (i.e each reproductive traits, confounders)
 
 •	b_gen_statins
+
 Generate statin variables
+
 •	c_gen_statins_ds
+
 Generate statin dataset
+
 •	d_merge_outcome_ds
+
 Merge biomarker outcomes dataset with exposure dataset
+
 •	e_mvr_allexposures_allmods
+
 Run all MVR models
 •	f_pnc_parity_allmods
 Run PNC models
