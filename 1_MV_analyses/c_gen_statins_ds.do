@@ -304,7 +304,7 @@ lab var lipid_lowering "Non-statin lipid lowering therapy"
 *						Self-report medications								   *
 ********************************************************************************
 
-merge 1:1 n_eid using "reprotraits_nmr_data.dta", keepusing(n_6153* n_6177*)
+merge 1:1 n_eid using "reprotraits_nmr_data_ds.dta", keepusing(n_6153* n_6177*)
 
 gen medications = n_6153_0_0
 replace medications = n_6153_1_0 if medications==.
