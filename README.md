@@ -23,6 +23,10 @@ Scripts:
 
 •	h_output_sumtable.do: Read in MR results and MVR/PNC results and output to supplementary excel table
 
+•	i_rcs.do: Runs restricted cubic splines as a sensitivity analysis
+
+•	j_mvr_categorical.do: Runs the main MVR models with each reproductive trait categorised as a sensitivity analysis
+
 **2)	Directory: 2_MR_analyses**
 
 Scripts:
@@ -33,5 +37,9 @@ Scripts:
 
 •	c_mvmr.R: Performs multivariable MR of age at menarche on metabolic traits accounting for BMI
 
-•	d_mr_negcontrl.R: Performs MR analyses using negative outcome control 
+•	d_mr_negcontrl.R: Performs MR analyses using negative outcome control
+
+•	e_mr_markers.R: Performs MR analyses using the markers
+
+
 
